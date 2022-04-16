@@ -1,5 +1,6 @@
 # PathFindingAStarAlgorithm-
-### Implemented an A* search algorithm on a topological map with terrain information, elevation contours, and a set or sequence of locations to visit.
+• Implemented an A* search algorithm on a topological map with terrain information, elevation contours, and a set or sequence of locations to visit.
+• Generated optimal paths by finding the best way to get from point to point using heuristics and cost function.
 
 
 ### Assumptions:
